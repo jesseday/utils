@@ -1,6 +1,6 @@
 #!/user/bin/env bash
 
-SSL_DIR="/etc/ssl/xip.io"
+SSL_DIR="/etc/apache2/ssl/xip.io"
 
 DOMAIN="*.xip.io"
 
